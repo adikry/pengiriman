@@ -1,7 +1,7 @@
 {
   "name": "Pengiriman Bungkusan",
   "short_name": "Pengiriman",
-  "start_url": "/bungkusan-pengiriman/index.html",
+  "start_url": "/pengiriman/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
